@@ -1,5 +1,5 @@
 _repo: Joshua-Volume-4_5470
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Safford, Mary J.
@@ -33,5 +33,6 @@ subjects:
 - !lcc 'PT'
 - !lcsh 'Palestine -- History -- Fiction'
 - !lcsh 'German fiction -- Translations into English'
+- GITenberg
 title: Joshua — Volume 4
 url: http://www.gutenberg.org/ebooks/5470
